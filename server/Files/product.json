@@ -1,0 +1,16 @@
+[
+  {
+    "id": "d77cf9a0-8b25-4b53-a76c-4d65ce0af660",
+    "name": "Pants",
+    "category": "Clothing",
+    "price": 5000,
+    "quantity": 57
+  },
+  {
+    "id": "d60e6d15-2161-4694-a78c-4010845ff2a7",
+    "name": "Shirts",
+    "category": "Clothing",
+    "price": 3000,
+    "quantity": 17
+  }
+]

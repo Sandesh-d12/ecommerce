@@ -1,0 +1,32 @@
+[
+  {
+    "id": "8a52c23e-e582-4866-929f-c700c29686c7",
+    "user_id": "35c6c15a-442b-4543-b0fb-1dbde3341bea",
+    "products": [
+      {
+        "id": "d77cf9a0-8b25-4b53-a76c-4d65ce0af660",
+        "quantity": 3
+      },
+      {
+        "id": "d60e6d15-2161-4694-a78c-4010845ff2a7",
+        "quantity": 3
+      }
+    ],
+    "total_cost": 24800,
+    "payment": {
+      "type": "esewa",
+      "status": "paid"
+    },
+    "shipment": {
+      "status": "awaiting",
+      "location_type": "national",
+      "address": {
+        "country": "Nepal",
+        "district": "Lalitpur",
+        "town": "Patan",
+        "house_number": 22446
+      }
+    },
+    "status": "placed"
+  }
+]

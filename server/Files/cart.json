@@ -1,0 +1,17 @@
+[
+  {
+    "id": "d024b25b-b654-4786-9016-78e7799af9a6",
+    "user_id": "35c6c15a-442b-4543-b0fb-1dbde3341bea",
+    "products": [
+      {
+        "id": "d77cf9a0-8b25-4b53-a76c-4d65ce0af660",
+        "quantity": 5
+      },
+      {
+        "id": "d60e6d15-2161-4694-a78c-4010845ff2a7",
+        "quantity": 3
+      }
+    ],
+    "status": "deactive"
+  }
+]
